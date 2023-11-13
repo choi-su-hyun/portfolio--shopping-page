@@ -23,3 +23,4 @@
 제작자 1 명 (개인 포트폴리오)
 
 ## 데이터베이스 설계
+![chair-shopping-ERD](https://github.com/choi-su-hyun/portfolio--shopping-page/assets/86158560/bb124ce3-5363-4074-9c91-7da1f0a72633)
