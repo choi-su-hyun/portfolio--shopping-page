@@ -51,4 +51,5 @@
 특히 admin용 refresh와 access 토큰을 제작하고 프론트에서 처리하는 작업이 어려웠는데 해당부분은 현재 쿠키의 상태에 따라서 user로그인 상태인지, admin로그인 상태인지 구분시켜 토큰을 이용하도록 구현했습니다.
     
 ## 프로젝트 사용 영상
+https://github.com/choi-su-hyun/portfolio--shopping-page/assets/86158560/c562cedf-6919-4a2d-b14b-6407f910ddd9
 
